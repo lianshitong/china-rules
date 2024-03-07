@@ -5,7 +5,7 @@
 var proxy = "SOCKS5 127.0.0.1:1086; SOCKS 127.0.0.1:1086; DIRECT;";
 
 var rules = [
-
+  "||ip111.cn",
   "||dingtalk.com",
   "||reddianjing.com",
   "||jxedt.com",
