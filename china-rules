@@ -1,19 +1,62 @@
 [AutoProxy 0.2.9]
-! Checksum: 9PVgZURV+9DlFwAZIld/ZQ
-! Expires: 6h
-! Title: GFWList4LL
-! GFWList with EVERYTHING included
+!################Whitelist Start################
+@@||aliyun.com
+@@||baidu.com
+!--@@||bing.com
+@@||chinaso.com
+@@||chinaz.com
+@@|http://nrch.culture.tw/
 
-! rules being deployed inside GFW system. We try
-! our best to keep the list up to date. Please
-! contact us regarding URL submission / removal,
-! or suggestion / enhancement at issue tracker:
-
-
-!---------403/451/503/520 & URL Redirects---------
-!--ehentai
-||ip100.info
-||ip111.cn
-||baicu.com
-||qq.com
+!---Some are powered by GuXiang (BGP), please comment off if
+!---you encounter connectivity issues.
+@@||adservice.google.com
+!--ISP cache works sometimes, verified at drpeng + gehua.
+@@||dl.google.com
+!--@@||kh.google.com
+!--@@||khm.google.com
+!--@@||khm0.google.com
+!--@@||khm1.google.com
+!--@@||khm2.google.com
+!--@@||khm3.google.com
+!--@@||khmdb.google.com
+@@||tools.google.com
+@@||clientservices.googleapis.com
+@@||fonts.googleapis.com
+!--@@||khm.googleapis.com
+!--@@||khm0.googleapis.com
+!--@@||khm1.googleapis.com
+!--@@||khm2.googleapis.com
+!--@@||khm3.googleapis.com
+!--@@||khmdb.googleapis.com
+@@||storage.googleapis.com
+!--@@||translate.googleapis.com
+@@||update.googleapis.com
+@@||safebrowsing.googleapis.com
+@@||cn.gravatar.com
+!--@@||connectivitycheck.gstatic.com
+!--@@||csi.gstatic.com
+!--@@||fonts.gstatic.com
+!--@@||ssl.gstatic.com
+@@||haosou.com
+@@||ip.cn
+@@||jike.com
+@@|http://translate.google.cn
+@@|http://www.google.cn/maps
+@@||http2.golang.org
+@@||gov.cn
+@@||ocsp.pki.goog
+@@||qq.com
+@@||sina.cn
+@@||sina.com.cn
+@@||sogou.com
+@@||so.com
+@@||soso.com
+@@||uluai.com.cn
+@@||weibo.com
+@@||yahoo.cn
+@@||youdao.com
+@@||zhongsou.com
+@@|http://ime.baidu.jp
+!################Whitelist End##################
+!---------------------EOF-----------------------
 
