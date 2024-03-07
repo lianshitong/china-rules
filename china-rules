@@ -1,0 +1,19 @@
+[AutoProxy 0.2.9]
+! Checksum: 9PVgZURV+9DlFwAZIld/ZQ
+! Expires: 6h
+! Title: GFWList4LL
+! GFWList with EVERYTHING included
+
+! rules being deployed inside GFW system. We try
+! our best to keep the list up to date. Please
+! contact us regarding URL submission / removal,
+! or suggestion / enhancement at issue tracker:
+
+
+!---------403/451/503/520 & URL Redirects---------
+!--ehentai
+||ip100.info
+||ip111.cn
+||baicu.com
+||qq.com
+
